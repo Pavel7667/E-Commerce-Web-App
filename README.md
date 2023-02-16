@@ -3,7 +3,7 @@
 *Technologies used in the project*
 
 * Spring Boot
-* Spring MVC
+* Spring WebMVC
 * JPA & Hibernate
 * H2 Database
 * Thymeleaf & HTML
